@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Wmc
+Comment=Wmc P2P Cryptocurrency
+Comment[fr]=Wmc, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Wmc, eşten eşe kriptografik sanal para birimi
+Exec=wmc-qt %u
+Terminal=false
+Type=Application
+Icon=dash128
+MimeType=x-scheme-handler/wmc;
+Categories=Office;Finance;

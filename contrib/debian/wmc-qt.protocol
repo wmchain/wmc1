@@ -1,0 +1,11 @@
+[Protocol]
+exec=wmc-qt '%u'
+protocol=wmc
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
